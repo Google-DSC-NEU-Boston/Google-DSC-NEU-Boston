@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi 👋
+
+This repository stands for storing all the data of the events, team members, etc. hosted by the team. 
+
+
+
 
 <!--
 **Google-DSC-NEU-Boston/Google-DSC-NEU-Boston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
